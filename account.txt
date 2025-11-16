@@ -1,7 +1,7 @@
-admin@email.com,admin123,Admin User
-
-sample_users =
+Account Member:
 Member("M001", "John Doe", "john@email.com", "123456"),
 Member("M002", "Jane Smith", "jane@email.com", "234567"), 
 Member("M003", "Bob Johnson", "bob@email.com", "345678"),
+
+Account Librarian:
 Librarian("L001", "Admin User", "admin@email.com", "admin1")
