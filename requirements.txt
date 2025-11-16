@@ -1,0 +1,2 @@
+# requirements.txt
+# (Hiện tại project không cần thư viện ngoài, nhưng để dễ mở rộng)
