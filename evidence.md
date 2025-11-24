@@ -24,3 +24,7 @@
 ### 4. PYTHON
 - **Dùng để**: Lập trình ứng dụng quản lý thư viện
 - **Minh chứng**: Ứng dụng được viết bằng Python và chạy thành công
+
+### 5. Draw.io
+- **Dùng để**: Vẽ các sơ đồ dựa theo chức năng đã nêu
+- **Minh chứng**: Các sơ đồ Use Case, Data Flow Diagram, Class Diagram, Data Model đã vẽ hoàn thiện
